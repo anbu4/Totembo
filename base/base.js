@@ -4,19 +4,19 @@ const base = {
             name:'Ring Silver',
             price:'1 300 000 uzs',
             discount: 20 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/ring/ring%20%20(1).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/ring/ring%20%20(1).png'
         },        
         {
             name:'Ring Gold',
             price:'800 000 uzs',
             discount: 50 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/ring/ring%20%20(2).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/ring/ring%20%20(2).png'
         },       
         {
             name:'Ring double',
             price:'2 100 000 uzs',
             discount: 10 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/ring/ring%20%20(3).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/ring/ring%20%20(3).png'
         },
           ],       
     earrings: [
@@ -24,19 +24,19 @@ const base = {
             name:'Earrings white Emerald',
             price:'1 000 000 uzs',
             discount: 20 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/earrings/earrings%20%20(1).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/earrings/earrings%20%20(1).png'
         },  
         {
             name:'Earrings blue Emerald',
             price:'2 000 000 uzs',
             discount: 20 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/earrings/earrings%20%20(2).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/earrings/earrings%20%20(2).png'
         },  
         {
             name:'Earrings Silver',
             price:'500 000 uzs',
             discount: 20 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/earrings/earrings%20%20(3).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/earrings/earrings%20%20(3).png'
         },
               ],
     bracelets: [
@@ -44,19 +44,19 @@ const base = {
             name:'Bracelet silver',
             price:'900 000 uzs',
             discount: 35 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/bracelets/bracelets%20%20(1).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/bracelets/bracelets%20%20(1).png'
         },    
         {
             name:'Bracelet gold',
             price:'1 000 000 uzs',
             discount: 75 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/bracelets/bracelets%20%20(2).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/bracelets/bracelets%20%20(2).png'
         },    
         {
             name:'Bracelet Emerald',
             price:'1 700 000 uzs',
             discount: 30 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/bracelets/bracelets%20%20(3).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/bracelets/bracelets%20%20(3).png'
         },
                ], 
     clutches: [
@@ -64,19 +64,19 @@ const base = {
             name:'Clutche man',
             price:'400 000 uzs',
             discount: 20 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/clutches/clutches%20(1).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/clutches/clutches%20(1).png'
         },   
         {
             name:'Clutche woman',
             price:'500 000 uzs',
             discount: 40 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/clutches/clutches%20(2).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/clutches/clutches%20(2).png'
         },   
         {
             name:'Clutche woman',
             price:'1 100 000 uzs',
             discount: 25 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/clutches/clutches%20(3).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/clutches/clutches%20(3).png'
         },    
               ], 
     clocks: [
@@ -84,19 +84,19 @@ const base = {
             name:'Rolex clock',
             price:'1 000 000 uzs',
             discount: 25 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/clock/clock%20(1).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/clock/clock%20(1).png'
         },   
         {
             name:'Rolex clock',
             price:'1 200 000 uzs',
             discount: 30 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/clock/clock%20(2).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/clock/clock%20(2).png'
         },   
         {
             name:'Rolex clock',
             price:'1 700 000 uzs',
             discount: 50 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/clock/clock%20(3).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/clock/clock%20(3).png'
         },    
            ], 
     chains: [
@@ -104,19 +104,19 @@ const base = {
             name:'Chain gold',
             price:'1 000 000 uzs',
             discount: 20 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/chains/chains%20(1).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/chains/chains%20(1).png'
         },    
         {
             name:'Chain silver',
             price:'300 000 uzs',
             discount: 40 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/chains/chains%20(2).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/chains/chains%20(2).png'
         },    
         {
             name:'Chain gold',
             price:'1 400 000 uzs',
             discount: 5 + '%',
-            url: 'file:///C:/Users/user/Desktop/totembo.grid-master/images/chains/chains%20(3).png'
+            url: 'file:///C:/Users/user/Desktop/totembo.grid/images/chains/chains%20(3).png'
         },    
             ],
 };
